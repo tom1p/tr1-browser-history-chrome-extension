@@ -1,4 +1,4 @@
-# BRANTO Browser History Chrome Extension
+# TR1 - Browser History Chrome Extension
 
 Nowoczesna wtyczka do przeglądarki Chrome zbudowana w React, zgodna z Manifest V3, umożliwiająca wygodne przeglądanie historii odwiedzanych stron.
 
